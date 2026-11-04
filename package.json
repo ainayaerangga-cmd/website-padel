@@ -1,0 +1,8 @@
+{
+  "name": "smash-point-padel",
+  "version": "1.0.0",
+  "private": true,
+  "description": "Padel club landing page with booking API on Vercel serverless functions",
+  "scripts": { "dev": "vercel dev" },
+  "engines": { "node": ">=18" }
+}
